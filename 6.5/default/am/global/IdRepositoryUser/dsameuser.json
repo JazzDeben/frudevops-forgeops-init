@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "realm" : null,
+    "amsterVersion" : "6.5.2",
+    "entityType" : "IdRepositoryUser",
+    "entityId" : "dsameuser",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "dsameuser",
+    "userPassword" : null,
+    "userPassword-encrypted" : "AAAAA0FFUwIQEMrUJWjY9TVEobUjeaZMaUbTjBjiEIRgRYks2ifpYXYwgm4sYZ2FuKLutc2NA0/Y8106/Sv432i/B+YOUtmhzZou3zQPFyuLqnSrUDzkGQNljRtdX+uRtCNPRcwsJDhC4FsADgoz7mj7lZRgUAuSv7fJqSpzm0NvQ7cTK9mbZlUMjJCdQJgqlgnAn5CRb3BtRakvqSVabeQ=",
+    "roles" : [ ],
+    "dn" : "cn=dsameuser,ou=DSAME Users,",
+    "inetUserStatus" : "Active",
+    "iplanet-am-user-auth-config" : "[Empty]",
+    "_type" : {
+      "_id" : "user",
+      "name" : "User",
+      "collection" : true
+    }
+  }
+}
